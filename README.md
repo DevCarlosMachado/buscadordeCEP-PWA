@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-18.0.0-61dafb?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?logo=typescript)
 ![PWA](https://img.shields.io/badge/PWA-Progressive_Web_App-5a0fc8?logo=pwa)
-![Status](https://img.shields.io/badge/Status-Em%20Concluída-green)
+![Status](https://img.shields.io/badge/Status-%20Concluída-green)
 
 Aplicação **Progressive Web App (PWA)** desenvolvida em **React + TypeScript**, que utiliza a **geolocalização do dispositivo** para descobrir o **CEP e o endereço aproximado** do usuário.
 
